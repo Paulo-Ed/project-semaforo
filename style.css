@@ -1,0 +1,23 @@
+#base{
+    background-color: #000000;
+    height: 500px;
+    width: 250px;
+    margin: auto;
+    border: solid 10px #363636;
+}
+#vermelho{
+    background-color: #530000;
+}
+#amarelo{
+    background-color: #828200;
+}
+#verde{
+    background-color: #002a00;
+}
+.estrutura{
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    border: solid 25px #000000;
+    border-radius: 100px;
+}
